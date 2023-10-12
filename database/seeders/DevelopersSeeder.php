@@ -18,6 +18,7 @@ class DevelopersSeeder extends Seeder
             [
                 'first_name' => 'Samuel',
                 'last_name' => 'Bosawer',
+                'description' => 'Web Developer and Coding Trainer',
             ]
         );
 
@@ -25,6 +26,7 @@ class DevelopersSeeder extends Seeder
             [
                 'first_name' => 'Janzen',
                 'last_name' => 'Faidiban',
+                'description' => 'Coding Trainer and Computer Literacy Tutor',
             ]
         );
 
@@ -32,6 +34,7 @@ class DevelopersSeeder extends Seeder
             [
                 'first_name' => 'Efati',
                 'last_name' => 'Isir',
+                'description' => 'Computer Ingineering Student',
             ]
         );
 
