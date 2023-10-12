@@ -38,5 +38,21 @@ class DevelopersSeeder extends Seeder
             ]
         );
 
+        Developers::create(
+            [
+                'first_name' => 'Sulenias',
+                'last_name' => 'Asso',
+                'description' => 'Computer Ingineering Student',
+            ]
+        );
+
+        Developers::create(
+            [
+                'first_name' => 'Septemina',
+                'last_name' => 'Waisimon',
+                'description' => 'Computer Ingineering Student',
+            ]
+        );
+
     }
 }
