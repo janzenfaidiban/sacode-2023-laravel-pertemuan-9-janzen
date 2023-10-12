@@ -20,5 +20,20 @@ class DevelopersSeeder extends Seeder
                 'last_name' => 'Bosawer',
             ]
         );
+
+        Developers::create(
+            [
+                'first_name' => 'Janzen',
+                'last_name' => 'Faidiban',
+            ]
+        );
+
+        Developers::create(
+            [
+                'first_name' => 'Efati',
+                'last_name' => 'Isir',
+            ]
+        );
+
     }
 }
