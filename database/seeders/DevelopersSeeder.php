@@ -18,7 +18,20 @@ class DevelopersSeeder extends Seeder
             [
                 'first_name' => 'Samuel',
                 'last_name' => 'Bosawer',
-                'description' => 'Web Developer and Coding Trainer',
+                'picture' => 'https://avatars.githubusercontent.com/u/60697963?v=4',
+                // 'description' => 'Web Developer and Coding Trainer',
+                
+                // contact
+                'address' => 'Pasar Lama Sentani, Kampung Yahim, Distrik Sentani Kota, Jayapura City, Papua.',
+                'phone' => '082112345678',
+                
+                // social media
+                'instagram' => 'https://instagram.com/',
+                'facebook' => 'https://facebook.com/',
+                'linkedin' => 'https://linkedin.com/',
+                'github' => 'https://github.com/',
+
+
             ]
         );
 
@@ -26,7 +39,18 @@ class DevelopersSeeder extends Seeder
             [
                 'first_name' => 'Janzen',
                 'last_name' => 'Faidiban',
-                'description' => 'Coding Trainer and Computer Literacy Tutor',
+                'picture' => 'https://avatars.githubusercontent.com/u/45115034?v=4',
+                // 'description' => 'Coding Trainer and Computer Literacy Tutor',
+                
+                // contact
+                'address' => 'Kelurahan Waena, Kecamatan Heram, Jayapura City, Papua.',
+                'phone' => '082112345678',
+                
+                // social media
+                'instagram' => 'https://instagram.com/',
+                'facebook' => 'https://facebook.com/',
+                'linkedin' => 'https://linkedin.com/',
+                'github' => 'https://github.com/',
             ]
         );
 
@@ -34,7 +58,18 @@ class DevelopersSeeder extends Seeder
             [
                 'first_name' => 'Efati',
                 'last_name' => 'Isir',
-                'description' => 'Computer Ingineering Student',
+                'picture' => '',
+                // 'description' => 'Computer Ingineering Student',
+                
+                // contact
+                'address' => 'Perumnas 3 Waena, Kelurahan Yabansai, Kecamatan Heram, Jayapura City, Papua.',
+                'phone' => '082112345678',
+                
+                // social media
+                'instagram' => 'https://instagram.com/',
+                'facebook' => 'https://facebook.com/',
+                'linkedin' => 'https://linkedin.com/',
+                'github' => 'https://github.com/',
             ]
         );
 
@@ -42,7 +77,18 @@ class DevelopersSeeder extends Seeder
             [
                 'first_name' => 'Sulenias',
                 'last_name' => 'Asso',
-                'description' => 'Computer Ingineering Student',
+                'picture' => '',
+                // 'description' => 'Computer Ingineering Student',
+                
+                // contact
+                'address' => 'Perumnas Empat, Kecamatan Heram, Jayapura City, Papua.',
+                'phone' => '082112345678',
+                
+                // social media
+                'instagram' => 'https://instagram.com/',
+                'facebook' => 'https://facebook.com/',
+                'linkedin' => 'https://linkedin.com/',
+                'github' => 'https://github.com/',
             ]
         );
 
@@ -50,7 +96,38 @@ class DevelopersSeeder extends Seeder
             [
                 'first_name' => 'Septemina',
                 'last_name' => 'Waisimon',
-                'description' => 'Computer Ingineering Student',
+                'picture' => '',
+                // 'description' => 'Computer Ingineering Student',
+                
+                // contact
+                'address' => 'Padang Bulan, Kecamatan Heram, Jayapura City, Papua.',
+                'phone' => '082112345678',
+                
+                // social media
+                'instagram' => 'https://instagram.com/',
+                'facebook' => 'https://facebook.com/',
+                'linkedin' => 'https://linkedin.com/',
+                'github' => 'https://github.com/',
+            ]
+        );
+
+
+        Developers::create(
+            [
+                'first_name' => 'Korius',
+                'last_name' => 'Wenda',
+                'picture' => '',
+                // 'description' => 'Computer Ingineering Student',
+                
+                // contact
+                'address' => 'Jalan Belut, Kelurahan Waena, Kecamatan Heram, Jayapura City, Papua.',
+                'phone' => '082112345678',
+                
+                // social media
+                'instagram' => 'https://instagram.com/',
+                'facebook' => 'https://facebook.com/',
+                'linkedin' => 'https://linkedin.com/',
+                'github' => 'https://github.com/',
             ]
         );
 
